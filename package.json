@@ -27,7 +27,7 @@
     "express-fileupload": "^1.1.6",
     "ipfs-http-client": "^42.0.0",
     "ipfs-mini": "^1.1.5",
-    "react-scripts": "^2.1.8",
+    "react-scripts": "^5.0.1",
     "truffle-contract": "^4.0.31",
     "truffle-hdwallet-provider": "^1.0.17",
     "web3": "^1.2.6"
